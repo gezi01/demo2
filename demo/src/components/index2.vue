@@ -1,3 +1,3 @@
 <template>
-  <h1>index2.vue</h1>
+  <h1>index22.vue</h1>
 </template>
